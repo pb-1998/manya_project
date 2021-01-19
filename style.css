@@ -1,0 +1,43 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.faci_mainDiv
+{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.faci_mainDiv img
+{
+  width: 100%;
+}
+
+.faci_mainDiv hr
+{
+    width: 230px;
+}
+
+.faci_mainDiv h5 , .travel_mainDiv p
+{
+margin-left: 20px;
+}
+body{
+    text-align: center;
+}
